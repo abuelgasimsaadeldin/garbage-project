@@ -1,0 +1,10 @@
+flagged/
+*.png
+*.jpg
+*.mp4
+*.jpeg
+*.mkv
+.DS_Store
+gradio_cached_examples/
+venv/
+.idea/
