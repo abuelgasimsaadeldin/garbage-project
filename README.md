@@ -52,6 +52,5 @@ We used a custom dataset for this project, which can be accessed here:
 Clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/garbage-detection.git
+git clone https://github.com/abuelgasimsaadeldin/garbage-project.git
 cd garbage-detection
-pip install -r requirements.txt
