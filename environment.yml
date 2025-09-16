@@ -1,0 +1,11 @@
+name: garbage-project
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - opencv
+  - jupyterlab
+  - ipykernel
+  
