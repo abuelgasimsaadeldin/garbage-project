@@ -8,6 +8,12 @@ model = YOLO("best.pt")
 # Classes from your training
 classes = ['biological', 'cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
 
+sample_images = [
+    "sample_images/sample1.jpg",
+    "sample_images/sample2.jpg",
+    "sample_images/sample3.jpg",
+]
+
 # ----------- IMAGE INFERENCE -----------
 def predict_image(image_path):
     image = cv2.imread(image_path)
@@ -65,6 +71,7 @@ image_demo = gr.Interface(
     inputs=gr.Image(type="filepath", label="Upload Image"),
     outputs=gr.Image(type="numpy", label="Detected Image"),
     title="Waste Object Detection - Image",
+    examples=sample_images,
     allow_flagging="never"
 )
 
