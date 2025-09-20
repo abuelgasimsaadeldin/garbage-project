@@ -2,7 +2,7 @@
 
 This repository contains the code and resources for the **Garbage Detection with AI Project**, where we explore how to build, train, and deploy an object detection model for classifying waste materials using deep learning.
 
-<img width="2593" height="1248" alt="Garbage" src="https://github.com/user-attachments/assets/2ee405eb-47bc-4031-81d2-0707cee29ba1" />
+![waste-detection](https://github.com/user-attachments/assets/21cf1d13-c24d-4f2b-b9fb-2139119ac47f)
 
 The project is based on a custom YOLOv11 model trained to detect the following waste categories:
 
