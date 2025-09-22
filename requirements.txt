@@ -1,5 +1,14 @@
+# General packages
 pandas
 matplotlib
 opencv-python
 jupyterlab
 ipykernel
+
+# App-specific packages
+gradio==4.44.1
+ultralytics
+Pillow
+pydantic==2.8.2
+pydantic-core==2.20.1
+fastapi==0.112.4

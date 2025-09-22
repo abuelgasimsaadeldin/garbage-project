@@ -1,1 +1,24 @@
+# Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Ignore files and folders specific to garbage-detection-app
+garbage-detection-app/flagged/
+garbage-detection-app/gradio_cached_examples/
+
+# Ignore media files globally
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.mkv
+
+# BUT allow sample images inside garbage-detection-app/sample_images/
+!garbage-detection-app/sample_images/*.jpg
+!garbage-detection-app/sample_images/*.jpeg
+
+# Ignore common OS/editor files
+.DS_Store
+.idea/
+
+# Ignore virtual environments (assuming it's inside any subfolder)
+venv/
