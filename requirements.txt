@@ -1,6 +1,7 @@
 # General packages
 pandas
 matplotlib
+numpy
 opencv-python
 jupyterlab
 ipykernel

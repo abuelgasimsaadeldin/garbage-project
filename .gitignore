@@ -22,3 +22,8 @@ garbage-detection-app/gradio_cached_examples/
 
 # Ignore virtual environments (assuming it's inside any subfolder)
 venv/
+
+Garbage-Dataset/
+runs/
+yolo11n.pt
+data.yaml
