@@ -3,8 +3,10 @@ pandas
 matplotlib
 numpy
 opencv-python
+scikit-learn
 jupyterlab
 ipykernel
+ipython
 
 # App-specific packages
 gradio==4.44.1
