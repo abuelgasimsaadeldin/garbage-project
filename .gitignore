@@ -27,3 +27,5 @@ Garbage-Dataset/
 runs/
 yolo11n.pt
 data.yaml
+.vscode
+best.pt

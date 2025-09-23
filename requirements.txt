@@ -1,7 +1,7 @@
 # General packages
 pandas
 matplotlib
-numpy
+numpy==1.24.3
 opencv-python
 scikit-learn
 jupyterlab
