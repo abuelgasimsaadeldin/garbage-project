@@ -1,17 +1,9 @@
-# General packages
 pandas
 matplotlib
 numpy==1.24.3
 opencv-python
 scikit-learn
+Pillow
 jupyterlab
 ipykernel
 ipython
-
-# App-specific packages
-gradio==4.44.1
-ultralytics
-Pillow
-pydantic==2.8.2
-pydantic-core==2.20.1
-fastapi==0.112.4
