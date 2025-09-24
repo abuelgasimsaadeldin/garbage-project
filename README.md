@@ -18,7 +18,7 @@ The project is based on a custom YOLOv11 model trained to detect the following w
 
 ## 📂 Dataset
 We used a custom dataset for this project, which can be accessed here:  
-👉 [Download Garbage Dataset (Google Drive)](https://drive.google.com/drive/u/1/folders/1CZQoOW_K0V55wY8tJHGRiSaY-DjPgbw6)
+👉 [Download Garbage Dataset (Google Drive)](https://drive.google.com/drive/u/1/folders/13C1MaoC5YKQlX1mRIE2nGY23gR9tfGeH)
 
 ---
 
